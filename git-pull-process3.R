@@ -20,3 +20,5 @@ $ git commit -m "test pull2"
 $ git push
 $ Username: 
 $ Password: 
+
+$ cp /Users/joe/Desktop/git-pull-process3.R /Users/joe/Documents/R-coursera/testpull
