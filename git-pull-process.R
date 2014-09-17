@@ -6,3 +6,4 @@ $ git pull origin master
 $ git add .
 $ git commit -m "test to find pull must have origin master after it"
 $ git push
+
